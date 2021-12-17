@@ -5,4 +5,4 @@ This is the project which took the dataset of ASLLVD (http://vlm1.uta.edu/~athit
 
 ### Dataset on google
 https://drive.google.com/drive/folders/1nYAcaafta5TvfTlupI11VGy2H4Qka6sJ?usp=sharing
-To run the files on google colab, create a shortcut of the folder to drive
+To run the files on google colab, create a shortcut of the folder to drive.
